@@ -1,0 +1,6 @@
+psutil,
+WMI, 
+pywin32,
+psutil,
+--upgrade pip
+pytorch,
